@@ -1142,6 +1142,11 @@ footer {
         overflow-y: auto;
         border-top: 1px solid var(--neutral-border);
     }
+
+      #main-nav .btn-call {
+         box-shadow: inset 0 -2px 0 var(--orange-primary);
+         border-bottom: none;
+   }
     
     #main-nav.active {
         display: block;
